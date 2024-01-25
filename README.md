@@ -9,6 +9,8 @@ https://github.com/joaogdfaero/python_study
 
 [https://github.com/joaogdfaero/python_study/tree/main/OOP](OOP)
 
+[TEXT TO SHOW](actual URL to navigate)
+
 Exception Handling: Know how to use try, except, else, and finally blocks.
 
 2. Algorithm and Data Structures:
