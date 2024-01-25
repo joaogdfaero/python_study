@@ -7,6 +7,8 @@ Object-Oriented Programming (OOP): Understand classes, objects, inheritance, and
 
 https://github.com/joaogdfaero/python_study
 
+[https://github.com/joaogdfaero/python_study/tree/main/OOP](OOP)
+
 Exception Handling: Know how to use try, except, else, and finally blocks.
 
 2. Algorithm and Data Structures:
