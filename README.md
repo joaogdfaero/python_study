@@ -3,15 +3,14 @@
 1. Understand Python Fundamentals:
 Data Types and Structures: Be comfortable with lists, dictionaries, sets, tuples, and understand when to use each.
 
+[Data types fundamentals](https://docs.google.com/document/d/1TUKF6VYeXDWIgmlO3ev9mJhxbipZRIeRSNm6Jhqlw_8/edit)
+
 Object-Oriented Programming (OOP): Understand classes, objects, inheritance, and polymorphism.
 
-[https://github.com/joaogdfaero/python_study/tree/main/OOP](OOP)
-
-[TEXT TO SHOW](actual URL to navigate)
+[OOP study code](https://github.com/joaogdfaero/python_study/tree/main/OOP) 
 
 Exception Handling: Know how to use try, except, else, and finally blocks.
 
-[Link](https://documenter.getpostman.com/view/24543977/2s93zCXzWV) 
 
 2. Algorithm and Data Structures:
 Be familiar with common data structures like arrays, linked lists, stacks, and queues.
